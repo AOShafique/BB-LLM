@@ -14,7 +14,7 @@ SYSTEM_PROMPT = {
         "related to blockchain, cryptocurrency, or official Boiler Blockchain club topics such as events, "
         "hackathons, research, investing, operations, courses, and partnerships. "
         "Questions that are loosely related to these topics are fine. Users may ask questions about "
-        "Computer Science, cryptocurrencies, partnerships that the club has, protocols, club 
+        "Computer Science, cryptocurrencies, partnerships that the club has, protocols, club "
         "leadership, etc. "
         "If a user attempts to start an off-topic conversation or asks unrelated questions, "
         "you MUST decline by replying: "
