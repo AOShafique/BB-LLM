@@ -1,0 +1,46 @@
+Paragraph Number,Content
+1,Introduction to Blockchain
+2,Offered by the Elmore Family School of Electrical and Computer Engineering
+3,Fall 2025
+4,"Monday @ 6pm, WANG 2599"
+6,Professor Thottetodi
+7,"TAs: Shivam Rastogi, Aditya Kattil, Mugdha Patil, Pranav Doshi, Garv Tayade"
+9,Overview
+11,"This course aims to provide individuals with a comprehensive, hands-on overview of blockchain technology and decentralized applications from a developer perspective. From basic cryptography concepts and blockchain use cases to the latest developments in the technical field, this course will provide students with the necessary skills and tools to pursue various work opportunities in the technology field."
+13,Learning Outcomes:
+14,Understand the enabling technologies of blockchains and how they work at a technical level.
+15,Realize the importance of cryptography in blockchain systems
+16,Understand the role of Ethereum’s EVM
+17,Appy Solidity programming concepts to write & deploy smart contracts
+18,Utilize popular open-source solidity libraries
+19,Use the ethers.js library and hardhat development framework to develop dApps
+20,Develop decentralized applications and smart contracts for legacy and innovative use cases.
+21,Apply advanced Solidity programming concepts to expand on existing open-source smart contract libraries
+23,Course Structure
+25,"Every week there will be one lecture, mostly “hands-on”, with most of the covered materials shared in video lectures beforehand. There will be multiple Recitation/Office Hours meetings every week in which the students will be able to interact with the TAs to get help on projects and homework."
+28,Module/Lecture Structure:
+31,Homework:
+32,"Homework will consist of weekly coding assignments on solidity that will use the technology that we taught you in the previous class. TAs will host multiple office hours across the week in case you want any help with the assignments (Office hours will be online, check the Brightspace for more information)"
+34,Grading Rubric:
+35,Unannounced in-class Quizzes (40%)
+36,Answering an in-class quiz when you’re not in the classroom is not a good idea :)
+37,"If you miss a class, you have 2 unexcused absences that include everything from exams to sickness. If for some reason you miss more than 2 lectures, you will have extra credit opportunities to make up for it during the project."
+38,Homework (30%)
+39,Homeworks are released on Mondays at 8am.
+40,They are due next Monday at 11:59 pm.
+41,Final Group Project (30%)
+42,More details will be released as the end of the semester approaches
+43,"Extra credit: Available throughout the semester, TBA (20%)"
+45,Office Hours
+47,Shivam Rastogi (rastog18@purdue.edu) - 7:00 - 8:00 PM Mondays
+48,"(In- Person, after class at WANG 2599)"
+49,"Aditya Kattil (akuniyil@purdue.edu) - 5:00 - 6:00 PM Fridays (Weekly, on Zoom)"
+50,Link: https://purdue-edu.zoom.us/j/6958521019
+51,"Mugdha Patil (patil192@purdue.edu) - 5:00 - 6:00 PM Wednesdays (Weekly, on Zoom)"
+52,Link:https://purdue-edu.zoom.us/j/97840500886?pwd=0g4DjO2jZBR5aPoEfM4Pgru0W6Se89.1
+53,"Pranav Doshi (doshi59@purdue.edu) - 5:00 - 6:00 PM Tuesdays (Weekly, on Zoom)"
+54,Link: https://purdue-edu.zoom.us/j/4947890579
+55,"Garv Tayade (gtayade@purdue.edu) - 5:00 - 6:00 PM Thursdays (Weekly, on Zoom)"
+57,"If you have any questions/doubts, please don’t hesitate to email one of us and we will get back to you as soon as possible."
+60,Passing this course:
+61,A minimum overall grade of 65% is required to receive your Blockchain Certification.
